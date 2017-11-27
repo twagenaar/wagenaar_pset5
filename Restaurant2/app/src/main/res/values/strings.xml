@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant2</string>
+    <string name="place">Place Order</string>
+    <string name="cancel">Cancel</string>
+</resources>
